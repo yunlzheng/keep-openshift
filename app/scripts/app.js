@@ -12,6 +12,10 @@ angular.module('bookroadOpenshiftApp', [
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
+      .when('/:id', {
+        templateUrl: 'views/book.html',
+        controller: 'BookCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
