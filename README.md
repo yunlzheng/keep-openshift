@@ -1,10 +1,14 @@
-快速的搭建一个web应用
-========================
+Keep记事应用
+============
 
-## 一些基础的东西
+## About
 
-* yeoman: MODERN WORKFLOWS FOR MODERN WEBAPPS
-* Flask: 一个Python的微性框架
+create a web application like google keep.
+
+try to use angular.js build the Front.
+
+try to use open-shitf run this application
+
 
 
 
